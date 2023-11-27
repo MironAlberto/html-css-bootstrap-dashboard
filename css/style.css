@@ -8,6 +8,10 @@ ul li a {
     color: white;
 }
 
+.main-section{
+    height: calc(100vh - 60px);
+}
+
 
 /* HEADER */
 header{
@@ -24,4 +28,11 @@ header{
 
 .mobile-logo span img{
     max-width: 50px;
+}
+
+
+/* ASIDE */
+.aside-background-image{
+    background-color: #051E34;
+    background-image: url(../img/sidebar-bg.png);
 }
