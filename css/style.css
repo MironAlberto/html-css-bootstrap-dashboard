@@ -1,7 +1,27 @@
-/*RESET*/
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: Arial, Helvetica, sans-serif;
+/* GENERAL */
+ul li{
+    list-style: none;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+
+/* HEADER */
+header{
+    height: 60px;
+}
+
+.nav-bar-color{
+    background-color: #E5E5E5;
+}
+
+.my-form-control:focus{
+    box-shadow: none;
+}
+
+.mobile-logo span img{
+    max-width: 50px;
 }
