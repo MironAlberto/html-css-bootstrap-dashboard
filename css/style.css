@@ -36,3 +36,23 @@ header{
     background-color: #051E34;
     background-image: url(../img/sidebar-bg.png);
 }
+
+
+/* MAIN */
+.header-main{
+    background-color: #1B72E8;
+    height: 110px;
+}
+
+.header-main .pills{
+    background-color: #165BBA;
+}
+
+.offcanvas{
+    --bs-offcanvas-width: 50%;
+}
+
+.img-table img{
+    max-width: 25px;
+    padding-right: 5px;
+}
